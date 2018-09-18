@@ -1,4 +1,4 @@
-# Embrace JavaEE on AWS Serverless Architecture
+# Embrace Java EE on AWS Serverless Architecture
 Embrace Java EE Application on AWS Serverless Architecture
 
 ## Why Serverless
