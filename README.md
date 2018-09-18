@@ -17,7 +17,7 @@ Embrace Java EE Application on AWS Serverless Architecture
 ## Run Java EE Application on AWS
 ### API Gateway with Lambda Proxy Integration
 ### Containerize Application runs in ECS/Fargate || EKS/Fargate
-### What's the evaluating metrics
+### How to make decisions for lambda or containerzie application
 
 ## Advanced Design principle
 ### Domain Driven Design Methodology
