@@ -7,7 +7,12 @@ Embrace Java EE Application on AWS Serverless Architecture
 ### Service Category
 ### Service List
 ### Frequently asked question for Java lambda function
+1. What's the JDK version? License feed?
+2. Java Cold Start time issue
+3. how to develop and test at local
 ### Best practices on Java Lambda function
+1. Lambda function outside vpc
+2. Resource Adapter pattern 
 
 ## Run Java EE Application on AWS
 ### API Gateway with Lambda Proxy Integration
