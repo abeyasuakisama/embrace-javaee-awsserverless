@@ -13,6 +13,8 @@ Embrace Java EE Application on AWS Serverless Architecture
 ### Best practices on Java Lambda function
 
 Take a look for the reference: 
+
+http://www.infoq.com/cn/articles/serverless-best-practices
 https://aws.amazon.com/blogs/architecture/serverless-architectures-with-aws-lambda-overview-and-best-practices/
 https://medium.com/@PaulDJohnston/serverless-best-practices-b3c97d551535
 https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf
